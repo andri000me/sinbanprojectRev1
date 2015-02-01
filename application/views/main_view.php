@@ -1,0 +1,1 @@
+Halaman Ini Di Render Dalam : <strong>{elapsed_time}</strong> Detik.
